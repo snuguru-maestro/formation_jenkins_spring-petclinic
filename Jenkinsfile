@@ -22,7 +22,7 @@ pipeline {
     }
     
     tools {
-        jdk "local_jdk17K"
+        jdk "local_jdk17"
         maven "local_maven"
     }
     
